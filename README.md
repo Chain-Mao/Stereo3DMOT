@@ -1,8 +1,8 @@
 # Stereo3DMOT
 
-<b>Stereo3DMOT: Stereo Vision Based 3D Multi-Object Tracking with Multimodal ReID (PRCV 2023), Chen Mao</b>
+<b>Stereo3DMOT: Stereo Vision Based 3D Multi-Object Tracking with Multimodal ReID (PRCV 2023)</b>
 
-This repository contains the official python implementation for our paper at PRCV 2023 "[Stereo3DMOT: Stereo Vision Based 3D Multi-Object Tracking with Multimodal ReID](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_39)".
+This repository contains the official python implementation for our paper at PRCV 2023 "[Stereo3DMOT: Stereo Vision Based 3D Multi-Object Tracking with Multimodal ReID, Chen Mao](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_39)".
 If you find my paper or code useful, please cite my papers:
 
 ```
