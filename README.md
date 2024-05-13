@@ -21,6 +21,8 @@ If you find my paper or code useful, please cite my papers:
 
 ## Abstract
 3D Multi-Object Tracking (MOT) is a key component in numerous applications, such as autonomous driving and intelligent robotics, playing a crucial role in the perception and decision-making processes of intelligent systems. In this paper, we propose a 3D MOT system based on a cost-effective stereo camera pair, which includes a 3D multimodal re-identification (ReID) model capable of multi-task learning. The ReID model obtains the multimodal features of objects, including RGB and point cloud information. We design data association and trajectory management algorithms. The data association computes an affinity matrix for the object feature embeddings and motion information, while the trajectory management controls the lifecycle of the trajectories. In addition, we create a ReID dataset based on the KITTI Tracking dataset, used for training and validating ReID models. Results demonstrate that our method can achieve accurate object tracking solely with a stereo camera pair, maintaining high reliability even in cases of occlusion and missed detections. Experimental evaluation shows that our approach outperforms competitive results on the KITTI MOT leaderboard.
+<img align="center" width="100%" src="https://github.com/Chain-Mao/Stereo3DMOT/blob/master/network.png">
+<img align="center" width="100%" src="https://github.com/Chain-Mao/Stereo3DMOT/blob/master/architecture.png">
 
 ## Benchmarking
 
