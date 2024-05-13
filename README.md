@@ -31,7 +31,7 @@ If you find my paper or code useful, please cite my papers:
 We provide instructions (inference, evaluation and visualization) for reproducing our method's performance on various supported datasets ([KITTI](docs/KITTI.md)) for benchmarking purposes. 
 
 ## Issues
-If you have any questions regarding our code or dataset, feel free to open an issue or send an email to maochen981203@gmail.com
+If you have any questions regarding our code or paper, feel free to open an issue or send an email to maochen981203@gmail.com
     
 ## Acknowledgements
 Parts of this repo are inspired by the following repositories:
