@@ -1,0 +1,11 @@
+_BASE_: ./Base-AGW.yml
+
+MODEL:
+  BACKBONE:
+    NAME: build_mobilenetv3_backbone
+
+DATASETS:
+  NAMES: ("Kitti",)
+  TESTS: ("Kitti",)
+
+OUTPUT_DIR: /home/simit/code/Stereo3DMOT/fastreid/weights/kitti/agw_M50_point_300_Car
